@@ -7,9 +7,3 @@
 ### 发布更改
 
 推送到默认分支的更改将自动部署到生产环境。
-
-### 关于我
-
-<img src="/ext/ad/灯塔红白间.jpg" width="420" height="153" />
-
-<img src="/ext/ad/myact.jpg" width="300" height="360" />
